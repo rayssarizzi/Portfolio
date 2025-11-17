@@ -107,6 +107,14 @@ p {
     margin-bottom: 10px;
 }
 
+#certificados img {
+    width: 100%;
+    max-width: 900px; 
+    height: auto;
+    border-radius: 8px;
+}
+
+
 /* EXPERIÊNCIAS — LINGUAGENS / FERRAMENTAS */
 .experiencia {
     display: grid;
